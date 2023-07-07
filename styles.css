@@ -136,6 +136,7 @@ h1 {
 }
 
 .contact-section {
+ background-color: blue;
   min-height: 50vh;
   display: flex;
   flex-direction: column;
@@ -148,6 +149,7 @@ h1 {
 .contact-section-header {
   text-align: center;
   margin-bottom: 2rem;
+   color: white;
 }
 
 .contact-section-header h2 {
