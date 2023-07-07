@@ -62,12 +62,17 @@ h1 {
   text-align: center;
 }
 
-.about-me-section > h2,p {
+.about-me-section > h2 {
   color: white;
   font-size: 2rem;
   margin-bottom: 2rem;
+  display:flex;
+  flex-direction:row;
+  align-items:center
 }
-
+.about-me-section > p{
+  color:white
+}
 .about-me-content {
   display: flex;
   align-items: center;
