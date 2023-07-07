@@ -31,6 +31,15 @@ a {
 a:hover {
   background-color: black;
 }
+.welcome-section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(-45deg, #050A30 20%, #000C66 40%, #0000FF 60%, #7EC8E3 80%);
+  margin-bottom: 0;
+}
 
 li {
   list-style: none;
