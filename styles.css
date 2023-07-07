@@ -62,7 +62,7 @@ h1 {
   text-align: center;
 }
 
-.about-me-section > h2 {
+.about-me-section > h2,p {
   color: white;
   font-size: 2rem;
   margin-bottom: 2rem;
