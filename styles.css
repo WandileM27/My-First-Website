@@ -82,6 +82,7 @@ h1 {
   justify-content: center;
 }
 
+
 .profile-image {
   margin-right: 2rem;
 }
@@ -196,4 +197,10 @@ h1 {
 
 .btn.contact-details i {
   margin-right: 0.5rem;
+}
+.welcome-section,
+.tech-stack-section,
+.projects-section,
+.contact-section {
+  padding: 4rem 2rem;
 }
