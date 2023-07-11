@@ -94,6 +94,7 @@ h1 {
 }
 
 .tech-stack-section {
+  aligh-items:center;
   text-align: center;
   margin: 6rem 0;
 }
@@ -101,6 +102,8 @@ h1 {
 .tech-stack-content {
   display: flex;
   justify-content: center;
+    text-align: center;
+  aligh-items:center;
 }
 
 .skills, .tools {
